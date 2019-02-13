@@ -79,6 +79,7 @@ if (empty($_GET['refresh'])) {
 </head>
 
 <body class="about">
+<h1>Version 1.2</h1>
 <div id="page-container">
 	<div id="header">
 		<div id="logo">
