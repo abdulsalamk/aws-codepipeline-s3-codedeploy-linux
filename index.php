@@ -4,9 +4,9 @@ ini_set('display_errors', 'On');
 //error_reporting(E_ALL | E_STRICT);
 error_reporting(E_ALL);
 // Credit
-$author_name = 'AlphaMusk';
+$author_name = 'A Kunnummal';
 $author_version = 'v1.3';
-$author_email = 'alphamusk@networkpulse.com';
+$author_email = 'aabdul.kunnummal@gmail.comm';
 $author_project = 'AWS Metadata PHP Page';
 // Dont use dashes - in declaring variables, break them, no idea.
 // Be sure to end all http URLs with /, or some wont render data.
@@ -79,7 +79,7 @@ if (empty($_GET['refresh'])) {
 </head>
 
 <body class="about">
-<h1>Version 1.1</h1>
+<h1>Version 1.0</h1>
 <div id="page-container">
 	<div id="header">
 		<div id="logo">
