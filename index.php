@@ -5,7 +5,7 @@ ini_set('display_errors', 'On');
 error_reporting(E_ALL);
 // Credit
 $author_name = 'A Kunnummal';
-$author_version = 'v1.3';
+$author_version = 'v1.4';
 $author_email = 'aabdul.kunnummal@gmail.comm';
 $author_project = 'AWS Metadata PHP Page';
 // Dont use dashes - in declaring variables, break them, no idea.
